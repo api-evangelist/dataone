@@ -1,0 +1,54 @@
+{
+    "name": "DataONE",
+    "description": "Data Observation Network for Earth (DataONE) is the foundation of new innovative environmental science through a distributed framework and sustainable cyberinfrastructure that meets the needs of science and society for open, persistent, robust, and sec...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1002-dataone.jpg",
+    "tags": [
+        "api provider",
+        "data",
+        "data provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dataone\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DataOne",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1002-dataone.jpg",
+            "humanURL": "https:\/\/www.dataone.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dataone-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.dataone.org\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.dataone.org\/dataone-news.xml"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/jenkins-1.dataone.org\/documentation\/unstable\/API-Documentation-development\/apis\/index.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/DataOne"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Dataoneorg"
+        }
+    ]
+}
