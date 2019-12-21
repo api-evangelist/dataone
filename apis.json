@@ -1,34 +1,29 @@
 {
-    "name": "DataOne",
-    "description": "VIN decoding, automotive database and software products to power your portals and business solutions - CRM, IVM, Web, & Mobile.",
-    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1003-dataone.jpg",
+    "name": "DataONE",
+    "description": "Data Observation Network for Earth (DataONE) is the foundation of new innovative environmental science through a distributed framework and sustainable cyberinfrastructure that meets the needs of science and society for open, persistent, robust, and sec...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1002-dataone.jpg",
     "tags": [
         "api provider",
-        "autmobile",
-        "automobiles",
-        "have api",
-        "vin"
+        "data",
+        "data provider",
+        "have api"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dataone\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
         {
             "name": "DataOne",
             "description": null,
-            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1003-dataone.jpg",
-            "humanURL": "http:\/\/www.dataonesoftware.com\/",
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1002-dataone.jpg",
+            "humanURL": "https:\/\/www.dataone.org\/",
             "baseURL": "",
             "tags": [],
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dataone-openapi.json"
-                },
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dataone-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dataone\/master\/dataone-openapi.json"
                 }
             ]
         }
@@ -36,32 +31,28 @@
     "include": [],
     "x-common": [
         {
-            "type": "Blog",
-            "url": "http:\/\/vin.dataonesoftware.com\/vin_basics_blog"
-        },
-        {
-            "type": "Blog RSS",
-            "url": "http:\/\/vin.dataonesoftware.com\/vin_basics_blog\/rss.xml"
-        },
-        {
-            "type": "Developers",
-            "url": "http:\/\/www.dataonesoftware.com\/apis-web-services"
-        },
-        {
-            "type": "Email",
-            "url": "sales@dataonesoftware.com"
-        },
-        {
-            "type": "Email",
-            "url": "support@dataonesoftware.com"
-        },
-        {
-            "type": "Twitter",
-            "url": "https:\/\/twitter.com\/DataOneSoftware"
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
         },
         {
             "type": "Website",
-            "url": "http:\/\/www.dataonesoftware.com\/"
+            "url": "https:\/\/www.dataone.org\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.dataone.org\/dataone-news.xml"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/jenkins-1.dataone.org\/documentation\/unstable\/API-Documentation-development\/apis\/index.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/DataOne"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Dataoneorg"
         }
     ]
 }
